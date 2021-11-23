@@ -1,0 +1,7 @@
+AuthorName: onionshare-android-nightly
+AuthorWebSite: https://github.com/onionshare
+Categories: [nightly]
+Description: Nightly build of onionshare/onionshare-android
+IssueTracker: https://github.com/onionshare/onionshare-android/issues
+SourceCode: https://github.com/onionshare/onionshare-android
+Summary: Nightly build of onionshare/onionshare-android
