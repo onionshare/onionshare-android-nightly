@@ -1,0 +1,11 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 9",
+  "commandLine": [
+    "/usr/local/bin/fdroid update",
+    "--rename-apks",
+    "--create-metadata",
+    "--verbose"
+  ],
+  "startTimestamp": 1637700869000,
+  "subcommand": "update"
+}
