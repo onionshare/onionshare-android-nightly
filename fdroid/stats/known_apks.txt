@@ -5,3 +5,4 @@ org.onionshare.android.nightly_1637855833.apk org.onionshare.android.nightly 202
 org.onionshare.android.nightly_1637856554.apk org.onionshare.android.nightly 2021-11-25
 org.onionshare.android.nightly_1637856609.apk org.onionshare.android.nightly 2021-11-25
 org.onionshare.android.nightly_1640097115.apk org.onionshare.android.nightly 2021-12-21
+org.onionshare.android.nightly_1640177271.apk org.onionshare.android.nightly 2021-12-22
