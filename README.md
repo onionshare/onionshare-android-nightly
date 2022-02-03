@@ -3,4 +3,4 @@
 
 [![https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo](https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo/icons/icon.png)](https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo)
 
-Last updated: 2022-02-03 16:13:35 UTC
+Last updated: 2022-02-03 16:30:03 UTC
