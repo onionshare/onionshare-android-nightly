@@ -37,3 +37,4 @@ org.onionshare.android.nightly_1657899862.apk org.onionshare.android.nightly 202
 org.onionshare.android.nightly_1658065585.apk org.onionshare.android.nightly 2022-07-17
 org.onionshare.android.nightly_1658065775.apk org.onionshare.android.nightly 2022-07-17
 org.onionshare.android.nightly_1663781996.apk org.onionshare.android.nightly 2022-09-21
+org.onionshare.android.nightly_1663962274.apk org.onionshare.android.nightly 2022-09-23
