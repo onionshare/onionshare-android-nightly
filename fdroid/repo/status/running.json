@@ -6,6 +6,6 @@
     "--create-metadata",
     "--verbose"
   ],
-  "startTimestamp": 1672938190000,
+  "startTimestamp": 1672938420000,
   "subcommand": "update"
 }
