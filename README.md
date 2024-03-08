@@ -1,6 +1,6 @@
 
 # onionshare/onionshare-android-nightly
 
-[![https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo](https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo/icons/icon.png)](https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo)
+[![https://raw.githubusercontent.com/onionshare/onionshare-android-nightly/master/fdroid/repo](https://raw.githubusercontent.com/onionshare/onionshare-android-nightly/master/fdroid/repo/icons/icon.png)](https://raw.githubusercontent.com/onionshare/onionshare-android-nightly/master/fdroid/repo)
 
-Last updated: 2023-03-29 12:28:40 UTC
+Last updated: 2024-03-08 20:18:02 UTC
