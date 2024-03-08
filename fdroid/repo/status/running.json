@@ -1,11 +1,1 @@
-{
-  "/etc/issue.net": "Debian GNU/Linux 9",
-  "commandLine": [
-    "/usr/local/bin/fdroid update",
-    "--rename-apks",
-    "--create-metadata",
-    "--verbose"
-  ],
-  "startTimestamp": 1680092931000,
-  "subcommand": "update"
-}
+{"/etc/issue.net":"Debian GNU/Linux 11","antiFeatures":{},"apksigner":"/usr/bin/apksigner","archivePolicy0":[],"commandLine":["/usr/local/bin/fdroid update","--rename-apks","--create-metadata","--verbose"],"disabled":[],"endTimestamp":1709929110346,"failedBuilds":{},"jarsigner":"/usr/lib/jvm/java-11-openjdk-amd64/bin/jarsigner","keytool":"/usr/lib/jvm/java-11-openjdk-amd64/bin/keytool","needsUpdate":["58bea07cb6d97f9cfcd5c8f98b1feca0fb81cce5b0bf29a8e70ed2641956e9a6","org.onionshare.android.nightly"],"noPackages":["58bea07cb6d97f9cfcd5c8f98b1feca0fb81cce5b0bf29a8e70ed2641956e9a6","org.onionshare.android.nightly"],"noUpdateCheck":["58bea07cb6d97f9cfcd5c8f98b1feca0fb81cce5b0bf29a8e70ed2641956e9a6","org.onionshare.android.nightly"],"startTimestamp":1709929087000,"subcommand":"update"}
